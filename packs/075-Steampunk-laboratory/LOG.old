@@ -1,0 +1,8 @@
+2025/11/12-13:56:38.286 6f8 Recovering log #24
+2025/11/12-13:56:38.293 6f8 Delete type=0 #24
+2025/11/12-13:56:38.293 6f8 Delete type=3 #22
+2025/11/12-13:58:17.818 e38 Level-0 table #30: started
+2025/11/12-13:58:17.818 e38 Level-0 table #30: 0 bytes OK
+2025/11/12-13:58:17.819 e38 Delete type=0 #28
+2025/11/12-13:58:17.819 e38 Manual compaction at level-0 from '!scenes!YRIeaEE52D3iTVRI' @ 72057594037927935 : 1 .. '!scenes!YRIeaEE52D3iTVRI' @ 0 : 0; will stop at (end)
+2025/11/12-13:58:17.819 e38 Manual compaction at level-1 from '!scenes!YRIeaEE52D3iTVRI' @ 72057594037927935 : 1 .. '!scenes!YRIeaEE52D3iTVRI' @ 0 : 0; will stop at (end)
